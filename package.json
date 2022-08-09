@@ -2,7 +2,7 @@
   "name": "react-toast-notifications",
   "version": "2.5.1",
   "description": "A configurable, composable, toast notification system for react.",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "typings": "./index.d.ts",
   "license": "MIT",
   "author": "Joss Mackison (https://github.com/jossmac)",
